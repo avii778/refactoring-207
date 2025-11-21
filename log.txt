@@ -1,4 +1,6 @@
-c978d72 (HEAD -> main, origin/main, origin/HEAD) Task 2.1
+b0f9eb8 (HEAD -> main, origin/main, origin/HEAD) Task 2.2
+e35909a Task 2.2
+c978d72 Task 2.1
 9af12c2 Refactored StatementPrinter
 020f861 Finished task 1.2, adding stuff to git log
 3892e90 Task 1.1 completed, refactoring according to Sonar Cube
