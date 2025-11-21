@@ -32,7 +32,7 @@ public class StatementPrinter {
         for (Performance p : getInvoice().getPerformances()) {
 
             // add volume credits
-            volumeCredits = getVolumeCredits(p);
+            volumeCredits += getVolumeCredits(p);
 
             // print line for this order
             result.append(String.format("  %s: %s (%s seats)%n", getPlay(p).getName(),
